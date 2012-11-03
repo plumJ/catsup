@@ -1,0 +1,10 @@
+http://plumj.com/2012-10-26-python.html
+http://plumj.com/2012-10-26-nginx.html
+http://plumj.com/2012-10-26-jvm.html
+http://plumj.com/tag_tomcat.html
+http://plumj.com/tag_python.html
+http://plumj.com/tag_nginx.html
+http://plumj.com/tag_jvm.html
+http://plumj.com/tag_catsup.html
+http://plumj.com/archive_2012.html
+http://plumj.com/index.html

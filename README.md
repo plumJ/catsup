@@ -32,4 +32,3 @@ Example:
 ##Deploy a static blog
 run`python catsup.py deploy`
 And you can find your static blog in deploy/ .
-Thanks.

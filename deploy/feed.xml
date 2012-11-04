@@ -3,18 +3,18 @@
     <title>plum.J</title>
     <link href="feed.xml" rel="self" />
     <link href="http://plumj.com" />
-    <updated>2012-10-27T02:53:43Z</updated>
+    <updated>2012-11-04T12:19:00Z</updated>
     <id>http://plumj.com</id>
     
     <entry>
-        <title><![CDATA[检测URL并自动处理脚本]]></title>
-        <link href="http://plumj.com/2012-10-26-python.html"/>
-        <updated>2012-10-27T02:53:43Z</updated>
-        <published>2012-10-27T02:53:43Z</published>
-        <id>http://plumj.com/2012-10-26-python</id>
+        <title><![CDATA[使用urlopen.read()判断url状态并反馈]]></title>
+        <link href="http://plumj.com/2012-10-26-03.html"/>
+        <updated>2012-11-04T12:19:00Z</updated>
+        <published>2012-11-04T12:19:00Z</published>
+        <id>http://plumj.com/2012-10-26-03</id>
         <content type="html">
             <![CDATA[
-             <h4>源码</h4>
+             <h4>Source Code</h4>
 <div class="highlight"><pre><span class="c">#!/usr/bin/env python</span>
 
 <span class="kn">import</span> <span class="nn">os</span>
@@ -114,8 +114,8 @@
     <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mi">5</span><span class="o">*</span><span class="mi">60</span><span class="p">)</span>
 </pre></div>
 
-<h4>如何使用 How to use</h4>
-<div class="highlight"><pre>nohup python checkUrlTomcat.py &amp;
+<h4>How to use</h4>
+<div class="highlight"><pre><span class="o">[</span>root@vh1 ~<span class="o">]</span><span class="c"># nohup python checkUrlTomcat.py &amp;</span>
 </pre></div>
 
             ]]>
@@ -124,10 +124,10 @@
     
     <entry>
         <title><![CDATA[Nginx纯静态化配置 on catsup]]></title>
-        <link href="http://plumj.com/2012-10-26-nginx.html"/>
-        <updated>2012-10-27T02:53:42Z</updated>
-        <published>2012-10-27T02:53:42Z</published>
-        <id>http://plumj.com/2012-10-26-nginx</id>
+        <link href="http://plumj.com/2012-10-26-02.html"/>
+        <updated>2012-11-04T12:18:47Z</updated>
+        <published>2012-11-04T12:18:47Z</published>
+        <id>http://plumj.com/2012-10-26-02</id>
         <content type="html">
             <![CDATA[
              <h4>当前配置:</h4>
@@ -169,11 +169,11 @@
     </entry>
     
     <entry>
-        <title><![CDATA[JVM优化]]></title>
-        <link href="http://plumj.com/2012-10-26-jvm.html"/>
-        <updated>2012-10-27T02:53:42Z</updated>
-        <published>2012-10-27T02:53:42Z</published>
-        <id>http://plumj.com/2012-10-26-jvm</id>
+        <title><![CDATA[Lucene JVM优化]]></title>
+        <link href="http://plumj.com/2012-10-26-01.html"/>
+        <updated>2012-11-04T12:18:34Z</updated>
+        <published>2012-11-04T12:18:34Z</published>
+        <id>http://plumj.com/2012-10-26-01</id>
         <content type="html">
             <![CDATA[
              <h4>优化配置段</h4>

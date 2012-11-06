@@ -3,15 +3,15 @@
     <title>plum.J</title>
     <link href="feed.xml" rel="self" />
     <link href="http://plumj.com" />
-    <updated>2012-11-04T12:19:00Z</updated>
+    <updated>2012-11-06T08:23:39Z</updated>
     <id>http://plumj.com</id>
     
     <entry>
         <title><![CDATA[使用urlopen.read()判断url状态并反馈]]></title>
-        <link href="http://plumj.com/2012-10-26-03.html"/>
-        <updated>2012-11-04T12:19:00Z</updated>
-        <published>2012-11-04T12:19:00Z</published>
-        <id>http://plumj.com/2012-10-26-03</id>
+        <link href="http://plumj.com/2012-10-26-python-urllib2-urlopen.html"/>
+        <updated>2012-11-06T08:23:39Z</updated>
+        <published>2012-11-06T08:23:39Z</published>
+        <id>http://plumj.com/2012-10-26-python-urllib2-urlopen</id>
         <content type="html">
             <![CDATA[
              <h4>Source Code</h4>
@@ -124,10 +124,10 @@
     
     <entry>
         <title><![CDATA[Nginx纯静态化配置 on catsup]]></title>
-        <link href="http://plumj.com/2012-10-26-02.html"/>
-        <updated>2012-11-04T12:18:47Z</updated>
-        <published>2012-11-04T12:18:47Z</published>
-        <id>http://plumj.com/2012-10-26-02</id>
+        <link href="http://plumj.com/2012-10-26-nginx-catsup-conf.html"/>
+        <updated>2012-11-06T08:23:34Z</updated>
+        <published>2012-11-06T08:23:34Z</published>
+        <id>http://plumj.com/2012-10-26-nginx-catsup-conf</id>
         <content type="html">
             <![CDATA[
              <h4>当前配置:</h4>
@@ -138,6 +138,8 @@
     server_name  plumj.com;
 
     root /usr/local/catsup/deploy;
+
+    error_page 404 = http://plumj.com/404.html;
 
 
 
@@ -170,10 +172,10 @@
     
     <entry>
         <title><![CDATA[Lucene JVM优化]]></title>
-        <link href="http://plumj.com/2012-10-26-01.html"/>
-        <updated>2012-11-04T12:18:34Z</updated>
-        <published>2012-11-04T12:18:34Z</published>
-        <id>http://plumj.com/2012-10-26-01</id>
+        <link href="http://plumj.com/2012-10-26-jvm-turning-lucene.html"/>
+        <updated>2012-11-06T08:23:28Z</updated>
+        <published>2012-11-06T08:23:28Z</published>
+        <id>http://plumj.com/2012-10-26-jvm-turning-lucene</id>
         <content type="html">
             <![CDATA[
              <h4>优化配置段</h4>

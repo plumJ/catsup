@@ -24,9 +24,6 @@
 <div id="description" class="seal">'s blog</div>
 <ul class="right">
 
-<li><a href="tag_cms-gc.html">Cms-gc</a></li>
-<li class="dot">&bull;</li>
-
 <li><a href="tag_tomcat.html">Tomcat</a></li>
 <li class="dot">&bull;</li>
 
@@ -37,6 +34,9 @@
 <li class="dot">&bull;</li>
 
 <li><a href="tag_urllib2.html">Urllib2</a></li>
+<li class="dot">&bull;</li>
+
+<li><a href="tag_lucene.html">Lucene</a></li>
 <li class="dot">&bull;</li>
 
 </ul>
@@ -63,7 +63,7 @@
 <li class="list_item">
 <div class="article">
 <div class="inner">
-<h2 class="article_title title"><a href="2012-10-26-03.html">使用urlopen.read()判断url状态并反馈</a></h2>
+<h2 class="article_title title"><a href="2012-10-26-python-urllib2-urlopen.html">使用urlopen.read()判断url状态并反馈</a></h2>
 <div class="article_meta">
 <span>on</span>
 2012-10-26
@@ -190,7 +190,7 @@
 <li class="list_item">
 <div class="article">
 <div class="inner">
-<h2 class="article_title title"><a href="2012-10-26-02.html">Nginx纯静态化配置 on catsup</a></h2>
+<h2 class="article_title title"><a href="2012-10-26-nginx-catsup-conf.html">Nginx纯静态化配置 on catsup</a></h2>
 <div class="article_meta">
 <span>on</span>
 2012-10-26
@@ -204,6 +204,8 @@
     server_name  plumj.com;
 
     root /usr/local/catsup/deploy;
+
+    error_page 404 = http://plumj.com/404.html;
 
 
 
@@ -249,7 +251,7 @@
 <li class="list_item">
 <div class="article">
 <div class="inner">
-<h2 class="article_title title"><a href="2012-10-26-01.html">Lucene JVM优化</a></h2>
+<h2 class="article_title title"><a href="2012-10-26-jvm-turning-lucene.html">Lucene JVM优化</a></h2>
 <div class="article_meta">
 <span>on</span>
 2012-10-26
@@ -335,8 +337,6 @@
 
 <a class="tag" href="tag_tomcat.html">tomcat</a>
 
-<a class="tag" href="tag_cms-gc.html">cms-gc</a>
-
 </div>
 </div>
 </div>
@@ -353,8 +353,6 @@
 <div id="footer_inner">
 <div class="tag_cloud col">
 <h2>Tag Cloud</h2>
-
-<a class="tag" href="tag_cms-gc.html">Cms-gc (1)</a>
 
 <a class="tag" href="tag_tomcat.html">Tomcat (1)</a>
 

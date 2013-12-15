@@ -1,5 +1,7 @@
-#coding=utf-8
+# -*- coding:utf-8 -*-
+
 import os
+
 site_title = 'plum.J'
 site_description = '\'s blog'
 #site_url = 'https://github.com/whtsky/catsup'

@@ -3,14 +3,14 @@
     <title>plum.J</title>
     <link href="feed.xml" rel="self" />
     <link href="http://plumj.com" />
-    <updated>2012-11-06T08:23:39Z</updated>
+    <updated>2013-12-13T18:25:23Z</updated>
     <id>http://plumj.com</id>
     
     <entry>
         <title><![CDATA[使用urlopen.read()判断url状态并反馈]]></title>
         <link href="http://plumj.com/2012-10-26-python-urllib2-urlopen.html"/>
-        <updated>2012-11-06T08:23:39Z</updated>
-        <published>2012-11-06T08:23:39Z</published>
+        <updated>2013-12-13T18:25:23Z</updated>
+        <published>2013-12-13T18:25:23Z</published>
         <id>http://plumj.com/2012-10-26-python-urllib2-urlopen</id>
         <content type="html">
             <![CDATA[
@@ -125,8 +125,8 @@
     <entry>
         <title><![CDATA[Nginx纯静态化配置 on catsup]]></title>
         <link href="http://plumj.com/2012-10-26-nginx-catsup-conf.html"/>
-        <updated>2012-11-06T08:23:34Z</updated>
-        <published>2012-11-06T08:23:34Z</published>
+        <updated>2013-12-13T18:25:23Z</updated>
+        <published>2013-12-13T18:25:23Z</published>
         <id>http://plumj.com/2012-10-26-nginx-catsup-conf</id>
         <content type="html">
             <![CDATA[
@@ -173,8 +173,8 @@
     <entry>
         <title><![CDATA[Lucene JVM优化]]></title>
         <link href="http://plumj.com/2012-10-26-jvm-turning-lucene.html"/>
-        <updated>2012-11-06T08:23:28Z</updated>
-        <published>2012-11-06T08:23:28Z</published>
+        <updated>2013-12-13T18:25:23Z</updated>
+        <published>2013-12-13T18:25:23Z</published>
         <id>http://plumj.com/2012-10-26-jvm-turning-lucene</id>
         <content type="html">
             <![CDATA[

@@ -1,13 +1,6 @@
-http://plumj.com/2012-10-26-python-urllib2-urlopen.html
 http://plumj.com/2012-10-26-nginx-catsup-conf.html
-http://plumj.com/2012-10-26-jvm-turning-lucene.html
-http://plumj.com/tag_tomcat.html
-http://plumj.com/tag_catsup.html
-http://plumj.com/tag_python.html
-http://plumj.com/tag_urllib2.html
-http://plumj.com/tag_lucene.html
 http://plumj.com/tag_nginx.html
-http://plumj.com/tag_jvm.html
 http://plumj.com/tag_urlrewrite.html
+http://plumj.com/tag_catsup.html
 http://plumj.com/archive_2012.html
 http://plumj.com/index.html

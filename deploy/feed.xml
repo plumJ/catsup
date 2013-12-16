@@ -3,14 +3,14 @@
     <title>plum.J</title>
     <link href="feed.xml" rel="self" />
     <link href="http://plumj.com" />
-    <updated>2013-12-13T18:25:23Z</updated>
+    <updated>2013-12-16T14:39:56Z</updated>
     <id>http://plumj.com</id>
     
     <entry>
         <title><![CDATA[Nginx纯静态化配置 on catsup]]></title>
         <link href="http://plumj.com/2012-10-26-nginx-catsup-conf.html"/>
-        <updated>2013-12-13T18:25:23Z</updated>
-        <published>2013-12-13T18:25:23Z</published>
+        <updated>2013-12-16T14:39:56Z</updated>
+        <published>2013-12-16T14:39:56Z</published>
         <id>http://plumj.com/2012-10-26-nginx-catsup-conf</id>
         <content type="html">
             <![CDATA[

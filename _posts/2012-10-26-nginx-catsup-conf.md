@@ -1,5 +1,5 @@
 #Nginx纯静态化配置 on catsup
-- tags: nginx,  urlrewrite, catsup
+- tags: nginx
 
 ----
 ####当前配置:

@@ -25,8 +25,7 @@ feed = 'feed.xml'
 post_per_page = 3
 
 links = (
-    ('whtsky', 'http://whouz.com', 'whouz write catsup'),
-    ('catsup', 'https://github.com/whtsky/catsup', 'the source of this blog'),
+    ('Leonbb', 'http://leonbb.com', "Leonbb's Blog"),
 )
 
 if site_url.endswith('/'):

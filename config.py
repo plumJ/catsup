@@ -4,11 +4,10 @@ import os
 
 site_title = 'plum.J'
 site_description = '\'s blog'
-#site_url = 'https://github.com/whtsky/catsup'
 site_url = 'http://plumj.com'
 static_url = 'static'
 theme_name = 'sealscript'
-google_analytics = ''  # optional
+google_analytics = ''
 
 catsup_path = os.path.dirname(__file__)
 posts_path = os.path.join(catsup_path, '_posts')
